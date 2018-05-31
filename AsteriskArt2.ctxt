@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=AsteriskArt2
+comment1.params=width\ height
+comment1.target=void\ drawRectangle(int,\ int)
+comment2.params=size
+comment2.target=void\ drawSquare(int)
+comment3.params=size
+comment3.target=void\ drawRightTriangle(int)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

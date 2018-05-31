@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Week7
+comment1.params=str
+comment1.target=java.lang.String\ delDel(java.lang.String)
+comment2.params=str
+comment2.target=boolean\ startHi(java.lang.String)
+comment3.params=str
+comment3.target=java.lang.String\ startOz(java.lang.String)
+comment4.params=str\ n
+comment4.target=java.lang.String\ nTwice(java.lang.String,\ int)
+comment5.params=str
+comment5.target=boolean\ hasBad(java.lang.String)
+numComments=6

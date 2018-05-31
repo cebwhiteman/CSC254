@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=TestMax2
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=values
+comment2.target=int\ max(int[])
+comment3.params=values
+comment3.target=double\ max(double[])
+numComments=4
