@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Lab7
+comment0.text=\ CSC\ 184\ -\ FA\ 17\n\ Lab\ \#7\ Solution\n\ Joseph\ Kendall-Morwick\ (Instructor)\n
+comment1.params=sentence
+comment1.target=java.lang.String\ noVowels(java.lang.String)
+comment1.text=\ Takes\ an\ arbitrary\ string,\ removes\ all\ characters\ consisting\ of\ vowels\ from\ it,\ and\ returns\ the\ result.\n\ Y\ is\ always\ treated\ as\ a\ vowel\ for\ simplicity.\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment2.text=Runs\ some\ tests\ for\ the\ noVowel\ method
+numComments=3

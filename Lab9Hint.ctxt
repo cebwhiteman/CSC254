@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Lab9Hint
+comment1.params=word
+comment1.target=boolean\ checkPalindrome(java.lang.String)
+comment2.params=story
+comment2.target=int\ countUms(java.lang.String)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
